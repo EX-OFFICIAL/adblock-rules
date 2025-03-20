@@ -1,0 +1,2 @@
+# adblock-rules
+ads block
